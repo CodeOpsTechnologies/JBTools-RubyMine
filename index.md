@@ -6,7 +6,7 @@
 
 >  [RubyMine](https://www.jetbrains.com/ruby/) is an integrated development environment (IDE) that helps you be more productive in every aspect of Ruby/Rails projects development - from writing and debugging code to testing and deploying a completed application. RubyMine is available for different platforms including macOS, Windows, and Linux.
 
-### AppCode Learning Resources
+### RubyMine Learning Resources
 1. [Opening a project](https://www.youtube.com/watch?v=yHQpiFznKyc&list=PLQ176FUIyIUanO72dRf6lOefKIznviKKJ&index=4&t=0s)
 2. [Navigation abilities](https://www.youtube.com/watch?v=YlSYx6wUku4&list=PLQ176FUIyIUanO72dRf6lOefKIznviKKJ&index=2)
 3. [Code editing & Refactoring features](https://www.youtube.com/watch?v=zrqPECDRz_U&list=PLQ176FUIyIUanO72dRf6lOefKIznviKKJ&index=1)
